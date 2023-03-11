@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'projeto-formatacao-numero';
+
+  numero: number = 0;
+
 }
